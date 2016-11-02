@@ -23,6 +23,6 @@
         "rozmarbeka/simplesamlphp": "dev-master"
     },
     "autoload": {
-        "psr-4": { "Hslavich\\SimplesamlphpBundle\\": "" }
+        "psr-4": { "Rozmarbeka\\SimplesamlphpBundle\\": "" }
     }
 }
