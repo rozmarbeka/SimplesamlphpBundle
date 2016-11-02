@@ -1,6 +1,6 @@
 <?php
 
-namespace Hslavich\SimplesamlphpBundle\Command;
+namespace Rozmarbeka\SimplesamlphpBundle\Command;
 
 use Composer\Script\CommandEvent;
 use Sensio\Bundle\DistributionBundle\Composer\ScriptHandler as SymfonyScriptHandler;
