@@ -1,6 +1,6 @@
 <?php
 
-namespace Hslavich\SimplesamlphpBundle\Security\Core\Authentication\Token;
+namespace Rozmarbeka\SimplesamlphpBundle\Security\Core\Authentication\Token;
 
 use Symfony\Component\Security\Core\Authentication\Token\AbstractToken;
 

@@ -1,10 +1,10 @@
 <?php
 
-namespace Hslavich\SimplesamlphpBundle\Security;
+namespace Rozmarbeka\SimplesamlphpBundle\Security;
 
-use Hslavich\SimplesamlphpBundle\Security\Core\Authentication\Token\SamlToken;
-use Hslavich\SimplesamlphpBundle\Security\Core\User\SamlUserInterface;
-use Hslavich\SimplesamlphpBundle\Exception\MissingSamlAuthAttributeException;
+use Rozmarbeka\SimplesamlphpBundle\Security\Core\Authentication\Token\SamlToken;
+use Rozmarbeka\SimplesamlphpBundle\Security\Core\User\SamlUserInterface;
+use Rozmarbeka\SimplesamlphpBundle\Exception\MissingSamlAuthAttributeException;
 use Symfony\Component\Security\Http\Authentication\SimplePreAuthenticatorInterface;
 use Symfony\Component\Security\Core\Authentication\Token\TokenInterface;
 use Symfony\Component\HttpFoundation\Request;

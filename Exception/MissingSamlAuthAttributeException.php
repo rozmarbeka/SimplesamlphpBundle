@@ -1,6 +1,6 @@
 <?php
 
-namespace Hslavich\SimplesamlphpBundle\Exception;
+namespace Rozmarbeka\SimplesamlphpBundle\Exception;
 
 class MissingSamlAuthAttributeException extends \Exception
 {
