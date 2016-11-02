@@ -13,11 +13,6 @@
             "email": "moritz.hesse@tu-dresden.de"
         }
     ],
-    "extra": {
-        "branch-alias": {
-            "1.1.0-dev": "1.1.0"
-        }
-    },
     "require": {
         "symfony/symfony": ">=2.8",
         "rozmarbeka/simplesamlphp": "dev-master"
