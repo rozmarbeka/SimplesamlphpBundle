@@ -13,12 +13,13 @@
             "email": "moritz.hesse@tu-dresden.de"
         }
     ],
-	"repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/rozmarbeka/simplesamlphp"
+    {
+    "extra": {
+            "branch-alias": {
+                "dev-master": "1.1.x-dev"
+            }
         }
-    ],
+    }
     "require": {
         "symfony/symfony": ">=2.8",
         "rozmarbeka/simplesamlphp": "dev-master"
