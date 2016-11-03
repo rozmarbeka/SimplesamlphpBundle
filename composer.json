@@ -15,7 +15,7 @@
     ],
     "require": {
         "symfony/symfony": ">=2.8",
-        "rozmarbeka/simplesamlphp": "dev-login-template-1.0"
+        "rozmarbeka/simplesamlphp": ">=1.14.87"
     },
     "autoload": {
         "psr-4": { "Rozmarbeka\\SimplesamlphpBundle\\": "" }
