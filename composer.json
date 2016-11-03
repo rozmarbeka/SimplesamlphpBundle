@@ -15,7 +15,7 @@
     ],
     "require": {
         "symfony/symfony": ">=2.8",
-        "rozmarbeka/simplesamlphp": "dev-master"
+        "rozmarbeka/simplesamlphp": "1.14.9-dev"
     },
     "autoload": {
         "psr-4": { "Rozmarbeka\\SimplesamlphpBundle\\": "" }
